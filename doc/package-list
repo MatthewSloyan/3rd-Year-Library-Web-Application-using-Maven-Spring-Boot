@@ -1,0 +1,6 @@
+com.sales
+com.sales.controllers
+com.sales.models
+com.sales.repositories
+com.sales.security
+com.sales.services
